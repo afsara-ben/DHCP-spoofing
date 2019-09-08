@@ -1,11 +1,16 @@
 # DHCP_spoofing_attack
-This is an implementation of DHCP spoofing attack for CSE 406 security lab
+This is an implementation of DHCP spoofing attack for CSE 406 security lab. The design and final report contains detailed description of the attack and its implementation.
 
-The design and final report contains detailed description of the attack and its implementation.
+##  Tools
 
-To run :
+Python
 
-> install scapy (mine was scapy 2.3.3)
+Scapy (2.3.3)
+
+
+## Setup
+
+> make sure python and scapy is installed, also install wireshark for seeing a detailed info of the packets
 
 > run DHCPstarve.py
 
@@ -17,7 +22,7 @@ Note: If the client or mobile device is already connected to the network this wo
 ALWAYS PERFORM FORGET NETWORK BEFORE RUNNING
 
 
-Resources used :
+##  Resources :
 
 DHCP protocol : 
 
