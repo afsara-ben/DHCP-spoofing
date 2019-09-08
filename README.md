@@ -48,17 +48,29 @@ DHCP Starvation :
 > https://github.com/shreyasdamle/DHCP-Starvation-/blob/master/dhcp_starvation.py
 > https://github.com/avaiyang/dhcp-starvation-attack/blob/master/dhcp_starve.py
 
-** DHCP Spoof : https://github.com/byt3bl33d3r/DHCPShock/blob/master/dhcpshock.py
-https://support.huawei.com/enterprise/en/doc/EDOC1100058937/40d3ec1/man-in-the-middle-attack-ip-mac-spoofing-attack-and-dhcp-exhaustion-attack
 
-Scapy cheatsheet : https://blogs.sans.org/pen-testing/files/2016/04/ScapyCheatSheet_v0.2.pdf
-> Scapy documentation : https://buildmedia.readthedocs.org/media/pdf/scapy/latest/scapy.pdf
+** DHCP Spoof : 
+> https://github.com/byt3bl33d3r/DHCPShock/blob/master/dhcpshock.py
+> https://support.huawei.com/enterprise/en/doc/EDOC1100058937/40d3ec1/man-in-the-middle-attack-ip-mac-spoofing-attack-and-dhcp-exhaustion-attack
 
-Python : https://docs.python.org/2/library/argparse.html
+Scapy cheatsheet :
 
-Scapy listener in python : https://jcutrer.com/python/scapy-dhcp-listener
+> https://blogs.sans.org/pen-testing/files/2016/04/ScapyCheatSheet_v0.2.pdf
 
-Packet sniffer : https://medium.com/@777rip777/packet-sniffer-with-scapy-part-3-a895ce7e9cb
+Scapy documentation : 
+> https://buildmedia.readthedocs.org/media/pdf/scapy/latest/scapy.pdf
+
+Python Docs : 
+
+> https://docs.python.org/2/library/argparse.html
+
+Scapy listener in python : 
+
+> https://jcutrer.com/python/scapy-dhcp-listener
+
+Packet sniffer : 
+
+> https://medium.com/@777rip777/packet-sniffer-with-scapy-part-3-a895ce7e9cb
 
 DHCP snooping : https://orhanergun.net/2017/03/layer-2-security-dhcp-details-dhcp-snooping/
 http://www.firewall.cx/cisco-technical-knowledgebase/cisco-switches/1215-understanding-dhcp-snooping-concepts-and-how-it-works.html
@@ -69,16 +81,19 @@ MITM : https://seclists.org/vuln-dev/2002/Sep/99
 
 https://security.stackexchange.com/questions/172687/what-is-the-role-of-arp-poisoning-when-doing-a-dhcp-spoofing-attack?newreg=05b564b9b8374bb7af97e9917fc967bc
 
-https://stackoverflow.com/questions/44937242/how-to-determine-if-an-ip-packet-is-dhcp-packet
+Others
 
-https://stackoverflow.com/questions/50026438/crafting-a-dhcp-offer-packet-in-scapy
+> https://stackoverflow.com/questions/44937242/how-to-determine-if-an-ip-packet-is-dhcp-packet
 
-https://stackoverflow.com/questions/22720788/dhcp-release-using-scapy
+> https://stackoverflow.com/questions/50026438/crafting-a-dhcp-offer-packet-in-scapy
 
-https://stackoverflow.com/questions/57811366/continue-net-connection-of-victim-after-dhcp-spoofing-attack
+> https://stackoverflow.com/questions/22720788/dhcp-release-using-scapy
 
-https://medium.com/@lucideus/dhcp-starvation-attack-with-dhcp-rogue-server-lucideus-research-68b2447de7d0
+> https://stackoverflow.com/questions/57811366/continue-net-connection-of-victim-after-dhcp-spoofing-attack
 
-Preventing DHCP starvation in real world : http://www.revolutionwifi.net/revolutionwifi/2011/03/preventing-dhcp-starvation-attacks.html
+> https://medium.com/@lucideus/dhcp-starvation-attack-with-dhcp-rogue-server-lucideus-research-68b2447de7d0
 
-https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3560/software/release/12-2_44_se/configuration/guide/scg/swdhcp82.html#wp1078853
+Preventing DHCP starvation in real world : 
+> http://www.revolutionwifi.net/revolutionwifi/2011/03/preventing-dhcp-starvation-attacks.html
+
+> https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3560/software/release/12-2_44_se/configuration/guide/scg/swdhcp82.html#wp1078853
