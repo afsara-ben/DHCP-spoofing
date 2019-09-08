@@ -7,7 +7,7 @@ To run :
 
 > install scapy (mine was scapy 2.3.3)
 
->  run DHCPstarve.py
+> run DHCPstarve.py
 
 > run DHCPSpoof.py
 
@@ -19,25 +19,35 @@ ALWAYS PERFORM FORGET NETWORK BEFORE RUNNING
 
 Resources used :
 
-DHCP protocol : http://www.networksorcery.com/enp/protocol/dhcp.htm
+DHCP protocol : 
+
+> http://www.networksorcery.com/enp/protocol/dhcp.htm
+
+> https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol
 
 > https://learningnetwork.cisco.com/docs/DOC-24355
 
-DHCP message format : http://www.omnisecu.com/tcpip/dhcp-dynamic-host-configuration-protocol-message-format.php
+DHCP message format : 
+
+> http://www.omnisecu.com/tcpip/dhcp-dynamic-host-configuration-protocol-message-format.php
 
 https://www.whitewinterwolf.com/posts/2017/10/30/dhcp-exploitation-guide/
 
-subnets and IP addresses : https://routersecurity.org/ipaddresses.php#targetText=A%20common%20IP%20address%20is,is%20visible%20on%20the%20Internet.
+subnets and IP addresses : 
 
-DHCP Starvation : https://www.youtube.com/watch?v=7RJ1Pn4Fl9Q&t=106s
-https://github.com/shreyasdamle/DHCP-Starvation-/blob/master/dhcp_starvation.py
-https://github.com/avaiyang/dhcp-starvation-attack/blob/master/dhcp_starve.py
+> https://routersecurity.org/ipaddresses.php#targetText=A%20common%20IP%20address%20is,is%20visible%20on%20the%20Internet.
+
+DHCP Starvation : 
+
+> https://www.youtube.com/watch?v=7RJ1Pn4Fl9Q&t=106s
+> https://github.com/shreyasdamle/DHCP-Starvation-/blob/master/dhcp_starvation.py
+> https://github.com/avaiyang/dhcp-starvation-attack/blob/master/dhcp_starve.py
 
 ** DHCP Spoof : https://github.com/byt3bl33d3r/DHCPShock/blob/master/dhcpshock.py
 https://support.huawei.com/enterprise/en/doc/EDOC1100058937/40d3ec1/man-in-the-middle-attack-ip-mac-spoofing-attack-and-dhcp-exhaustion-attack
 
 Scapy cheatsheet : https://blogs.sans.org/pen-testing/files/2016/04/ScapyCheatSheet_v0.2.pdf
-Scapy documentation : https://buildmedia.readthedocs.org/media/pdf/scapy/latest/scapy.pdf
+> Scapy documentation : https://buildmedia.readthedocs.org/media/pdf/scapy/latest/scapy.pdf
 
 Python : https://docs.python.org/2/library/argparse.html
 
