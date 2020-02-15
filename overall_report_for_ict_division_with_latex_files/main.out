@@ -1,0 +1,29 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{How DHCP Works?}{}% 2
+\BOOKMARK [1][-]{section.3}{Definition of the attack with topology diagram}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Rogue DHCP Server : \040}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{What is DHCP Starvation Attack? \040}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Attacking strategies and Attack timing diagram}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Attacking strategies: Overview }{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{Attacking strategies: Detailed process }{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Frame details for the attack with modification}{}% 9
+\BOOKMARK [2][-]{subsection.5.1}{DHCP Frame:}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.2}{DHCP message fields}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.3}{Example exchange of frames}{section.5}% 12
+\BOOKMARK [1][-]{section.6}{System Requirements}{}% 13
+\BOOKMARK [1][-]{section.7}{Software/tools/library requirements}{}% 14
+\BOOKMARK [1][-]{section.8}{Setup steps}{}% 15
+\BOOKMARK [1][-]{section.9}{Implementation}{}% 16
+\BOOKMARK [2][-]{subsection.9.1}{Before the attack : }{section.9}% 17
+\BOOKMARK [2][-]{subsection.9.2}{Steps of the attack}{section.9}% 18
+\BOOKMARK [3][-]{subsubsection.9.2.1}{Carrying out DHCP Starvation}{subsection.9.2}% 19
+\BOOKMARK [3][-]{subsubsection.9.2.2}{Carrying out DHCP Spoofing}{subsection.9.2}% 20
+\BOOKMARK [1][-]{section.10}{Demonstrating the attack}{}% 21
+\BOOKMARK [2][-]{subsection.10.1}{Performing DNS sniff}{section.10}% 22
+\BOOKMARK [1][-]{section.11}{Success and Limitations}{}% 23
+\BOOKMARK [1][-]{section.12}{Countermeasure}{}% 24
+\BOOKMARK [2][-]{subsection.12.1}{Why the prevention wasn't implemented? }{section.12}% 25
+\BOOKMARK [1][-]{section.13}{Other ways of implementation}{}% 26
+\BOOKMARK [2][-]{subsection.13.1}{Using Mininet and Ettercap }{section.13}% 27
+\BOOKMARK [2][-]{subsection.13.2}{Alternative of starvation }{section.13}% 28
+\BOOKMARK [1][-]{section.14}{Resources}{}% 29
